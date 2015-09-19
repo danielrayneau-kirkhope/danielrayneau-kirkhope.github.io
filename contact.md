@@ -6,29 +6,25 @@ permalink: /contact/
 ---
 ## Electronic 
 email
-: XXX
+: daniel.rayneau-kirkhope@aalto.fi
 
 phone
-: +YYY
+: +358 50 434 2467
 
 skype
-: ZZZ
+: daniel.rayneau.kirkhope
 
-whatsapp
-: +AAA
-
-threema
-: ABCDEFGHI
 
 ## Visiting
 AScI
-: Google maps link
+: Office 3162, [building 37] [MAP]
 
-ICS
-: Google maps link
 
 ## Mailing Address
-Your name \\
-Your address \\
-COUNTRY
+Daniel Rayneau-Kirkhope \\
+TUAS Building, \\
+Otaniementie 17, \\
+Espoo, \\
+FINLAND
 {:class="contact-info-mailing-address"}
+[map]: http://www.aalto.fi/en/about/campuses/campus_maps/ 

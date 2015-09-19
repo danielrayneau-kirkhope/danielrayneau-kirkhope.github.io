@@ -1,7 +1,7 @@
-<div class="preprints-list" id="preprints">
-    <h2 class="page-heading">Preprints</h2>
+<div class="preprints-list" id="preparation">
+    <h2 class="page-heading">In preparation</h2>
     {% for paper in site.papers reversed %}
-        {% if paper.type == "preprint" %}
+        {% if paper.type == "preparation" %}
             <div class="paper-list-paper">
                 <a class="paper-list-title" href="{{paper.url}}">{{paper.title}}</a>
                 <div class="paper-list-reference">

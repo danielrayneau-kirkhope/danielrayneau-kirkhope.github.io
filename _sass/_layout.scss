@@ -162,6 +162,9 @@
 /**
  * Page content
  */
+ 
+
+
 .page-content {
     padding: $spacing-unit 0;
 }
@@ -672,7 +675,8 @@ h1.paper-title {
         }
         
         .pos-title { 
-            font-weight: bold;
+            font-style: italic;
+            color: $grey-color-dark
         }
     }
     

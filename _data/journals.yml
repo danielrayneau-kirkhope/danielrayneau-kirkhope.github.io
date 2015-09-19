@@ -1,5 +1,23 @@
+prl:
+    title: Physical Review Letters
+    url: http://journals.aps.org/prl/
+
+pre:
+    title: Physical Review E
+    url: http://journals.aps.org/pre/
+
+letta:
+    title: Physics Letters A
+    url: http://www.journals.elsevier.com/physics-letters-a/
+
+comms:
+    title: Mechanics Research Communications
+    url: http://www.journals.elsevier.com/mechanics-research-communications/
+epl:
+    title: EPL (Europhysics Letters)
+    url: http://iopscience.iop.org/0295-5075
 advances:
-    title: Advances in Mathematics
+    title: Advances Mathematics
     url: http://www.journals.elsevier.com/advances-in-mathematics/
 ejc:
     title: European Journal of Combinatorics
@@ -7,3 +25,13 @@ ejc:
 dcg:
     title: "Discrete & Computational Geometry"
     url: http://www.springer.com/journal/454
+Phys_world:
+    title: Physics World
+    url: http://physicsworld.com
+2phys:
+    title: 2physics.com
+    url: http://www.2physics.com/
+
+Engopt:
+    title: Engineering Optimisation
+    url: https://www.crcpress.com/Engineering-Optimization-2014/Rodrigues-Herskovits-Mota-Soares-Miranda-Guedes-Araujo-Folgado-Moleiro-Aguilar-Madeira-Aguilar-Madeira/9781138027251

@@ -9,7 +9,7 @@
 $base-font-family: Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.4;
+$base-line-height: 1.45;
 
 $spacing-unit:     30px;
 
@@ -38,7 +38,6 @@ $bullet-inline-scale: 75%;
         @content;
     }
 }
-
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)

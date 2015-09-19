@@ -1,5 +1,5 @@
 <div class="journal-papers-list" id="journal-papers">
-    <h2 class="page-heading">Journal papers</h2>
+    <h2 class="page-heading">Peer reviewed articles</h2>
     {% for paper in site.papers reversed %}
         {% if paper.type == "journal" %}
             <div class="paper-list-paper">
@@ -18,5 +18,19 @@
                 </div>
             </div>
         {% endif %}
+        {% if paper.extrainfo == 3 %}
+        <br>
+        &emsp;See also:<br>
+        &emsp;&emsp;<a href="{{paper.report1url}}">{{paper.report1name}}</a><br>
+        &emsp;&emsp;<a href="{{paper.report2url}}">{{paper.report2name}}</a><br>
+        &emsp;&emsp;<a href="{{paper.report3url}}">{{paper.report3name}}</a><br>
+        
+        {% endif %}
+        {% if paper.extrainfo == 1 %}
+        <br>
+        &emsp;See also:<br>
+        &emsp;&emsp;<a href="{{paper.report1url}}">{{paper.report1name}}</a><br>
+        {% endif %}
+        
     {% endfor %}
 </div>
