@@ -2,7 +2,7 @@
 layout: page
 permalink: /bio/
 title: Research and academic profile
-shorttitle: Bio
+shorttitle: Bio 
 ---
 
 ## Research projects
