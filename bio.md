@@ -2,6 +2,7 @@
 layout: page
 permalink: /bio/
 title: Research and academic profile
+description: Rayneau Kirkhope bio, research interests and academic jobs
 shorttitle: Bio 
 ---
 
