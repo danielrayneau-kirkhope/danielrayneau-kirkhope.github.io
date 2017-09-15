@@ -10,7 +10,7 @@ email
 : daniel.rayneau-kirkhope@aalto.fi
 
 phone
-: +358 50 434 2467
+: 00358 50 434 2467
 
 skype
 : daniel.rayneau.kirkhope
