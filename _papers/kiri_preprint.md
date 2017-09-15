@@ -2,7 +2,7 @@
 layout: paper
 type: journal
 fulltexturl: https://arxiv.org/abs/1707.05477
-journal: Accepted, Soft Matter
+journal: SoftMatterACC
 authors:
     - Marcelo
     - McCarron
