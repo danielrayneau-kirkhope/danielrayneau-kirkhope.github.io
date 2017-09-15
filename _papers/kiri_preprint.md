@@ -1,8 +1,8 @@
 ---
 layout: paper
-type: preparation
+type: journal
 fulltexturl: https://arxiv.org/abs/1707.05477
-journal: Submitted
+journal: Accepted, Soft Matter
 authors:
     - Marcelo
     - McCarron
