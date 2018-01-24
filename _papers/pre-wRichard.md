@@ -2,7 +2,7 @@
 layout: paper
 type: preparation
 fulltexturl: http://arxiv.org/abs/1703.05150
-journal: Submitted
+journal: Royal_Soc_A
 authors:
     - Daniel
     - Richard
