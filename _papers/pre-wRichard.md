@@ -9,7 +9,7 @@ authors:
     - Louis
     - Marcelo
 title: "Analytic analysis of auxetic metamaterials through analogy with rigid link systems"
-year: 2017
+year: 2018
 
 ---
 
