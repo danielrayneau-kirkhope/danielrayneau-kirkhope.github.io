@@ -1,6 +1,6 @@
 ---
 layout: paper
-type: preparation
+type: journal
 fulltexturl: http://arxiv.org/abs/1703.05150
 journal: Royal_Soc_A
 authors:
