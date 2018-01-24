@@ -12,7 +12,7 @@ title: "Analytic analysis of auxetic metamaterials through analogy with rigid li
 year: 2018
 extrainfo: 2
 report1name: Associated COMSOL file 1
-report1url: "/assets/images/linear_buckling_seed.mph"
+report1url: "/assets/linear_buckling_seed.mph"
 report2name: Associated COMSOL file 2
 report1url: "/assets/images/BigBangTheory.png"
 
