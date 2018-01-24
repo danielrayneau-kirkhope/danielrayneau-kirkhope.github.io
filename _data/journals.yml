@@ -1,6 +1,10 @@
 prl:
     title: Physical Review Letters
     url: http://journals.aps.org/prl/
+    
+Royal_Soc_A:
+    title: Proceedings of Royal Society A
+    url: http://rspa.royalsocietypublishing.org
 
 pre:
     title: Physical Review E
