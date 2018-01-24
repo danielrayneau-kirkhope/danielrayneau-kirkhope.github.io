@@ -10,7 +10,7 @@ authors:
     - Marcelo
 title: "Analytic analysis of auxetic metamaterials through analogy with rigid link systems"
 year: 2018
-extrainfo: 1
+extrainfo: 2
 report1name: Associated COMSOL file 1
 report1url: "/assets/images/BigBangTheory.png"
 report2name: Associated COMSOL file 2
