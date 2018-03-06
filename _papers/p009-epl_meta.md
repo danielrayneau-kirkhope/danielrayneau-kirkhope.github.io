@@ -15,8 +15,8 @@ pages: 14001
 extrainfo: 3
 report1name: Editor's suggestions
 report1url: http://iopscience.iop.org/journal/0295-5075
-report2name: Editor's suggestions
-report2url: http://iopscience.iop.org/journal/0295-5075
+report2name: EPL Highlights of 2017
+report2url: http://iopscience.iop.org/journal/0295-5075/page/Highlights-of-2017
 report3name: Editor's suggestions
 report3url: http://iopscience.iop.org/journal/0295-5075
 ---
