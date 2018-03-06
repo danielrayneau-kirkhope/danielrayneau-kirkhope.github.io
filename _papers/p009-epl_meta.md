@@ -17,7 +17,7 @@ report1name: Editor's suggestions
 report1url: http://iopscience.iop.org/journal/0295-5075
 report2name: EPL Highlights of 2017
 report2url: http://iopscience.iop.org/journal/0295-5075/page/Highlights-of-2017
-report3name: Open access until 31st Dec 2018. 
+report3name: Open access until 31st Dec 2018
 report3url: http://iopscience.iop.org/article/10.1209/0295-5075/119/14001
 ---
 
