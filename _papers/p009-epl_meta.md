@@ -15,7 +15,7 @@ pages: 14001
 extrainfo: 2
 report1name: Editor's suggestions
 report1url: http://iopscience.iop.org/journal/0295-5075
-report2name: EPL Highlights of 2017 (open access until 2019)
+report2name: EPL Highlights of 2017
 report2url: http://iopscience.iop.org/journal/0295-5075/page/Highlights-of-2017
 ---
 
