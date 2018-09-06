@@ -47,5 +47,20 @@ EML:
 CC&B:
     title: CC&B Newsletter
     url: http://complexitybiosystems.it/en/news/CCandB-newsletter-01
-SoftMatterACC:
-    title: Soft Matter, Accepted
+SoftMatter:
+    title: Soft Matter
+    url: http://www.rsc.org/journals-books-databases/about-journals/soft-matter
+Nature_blog:
+    title: Nature Blog
+    url: http://blogs.nature.com/onyourwavelength/
+prapp:
+    title: Physical Review Applied
+    url: https://journals.aps.org/prapplied/
+
+sci_rep:
+    title: Nature Scientific Reports
+    url: https://www.nature.com/srep/
+
+ACS_nano:
+    title: ACS Nano
+    url: https://pubs.acs.org/journal/ancac3

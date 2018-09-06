@@ -1,8 +1,8 @@
 ---
 layout: paper
 type: journal
-fulltexturl: https://arxiv.org/abs/1707.05477
-journal: SoftMatterACC
+fulltexturl: https://pubs.rsc.org/en/content/articlelanding/2017/sm/c7sm01693j/unauth#!divAbstract
+journal: SoftMatter
 authors:
     - Marcelo
     - McCarron
@@ -13,6 +13,8 @@ authors:
     - Holmes
 title: "Kirigami Actuators"
 year: 2017
+volume: 48
+pages: 9087
 
 ---
 
