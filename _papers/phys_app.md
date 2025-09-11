@@ -1,7 +1,7 @@
 ---
 layout: paper
 type: journal
-fulltexturl: https://journals.aps.org/prapplied/accepted/40071YadI4715e4f56315246845ffa164e6dc6bbb
+fulltexturl: https://doi.org/10.1103/PhysRevApplied.10.034016
 journal: prapp
 authors:
     - Daniel
