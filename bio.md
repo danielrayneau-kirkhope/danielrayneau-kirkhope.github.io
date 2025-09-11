@@ -14,7 +14,7 @@ The main focus of my current work was centred on investigating the role of hiera
 
 In particular, I, with collaborators, have focused on self-similar designs. Through taking one structural pattern, repeating in on different length scales and optimising the resulting structure, we have found that in many different loading conditions hierarchy leads to high mechanical efficiency. 
 
-Other research projects that I am involved with include using elastic failure to bring about benificial properties within a material, problems of random packing, and the role of imperfections in the strength of materials. 
+Other research projects that I have been involved with include using elastic failure to bring about benificial properties within a material, problems of random packing, and the role of imperfections in the strength of materials. 
 
 ## Academic jobs
 
