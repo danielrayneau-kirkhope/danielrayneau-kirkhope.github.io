@@ -5,9 +5,12 @@ title: Research and academic profile
 description: Rayneau Kirkhope bio, research interests and academic jobs
 shorttitle: Bio 
 ---
+## Current work
+
+I currently work as an academic editor at [Scientific Eloquence][scielo]. In this role, I provide science and language consultation to academics within the field of engineering, physics, and maths. 
 
 ## Research projects
-The main focus of my current work is centred on investigating the role of hierarchy in problems involving structural optimisation. Typically it is found in nature that load bearing structures have different architectures on different length scales that culminate in high mechanical efficiency. The trabecular bone serves as a prime example of this and is the inspiration for much of my research. Other examples include ammonite suture lines (although, the hierarchy causing mechanical efficiency is debated), nacre, gecko toe pads and many others. 
+The main focus of my current work was centred on investigating the role of hierarchy in problems involving structural optimisation. Typically it is found in nature that load bearing structures have different architectures on different length scales that culminate in high mechanical efficiency. The trabecular bone serves as a prime example of this and is the inspiration for much of my research. Other examples include ammonite suture lines (although, the hierarchy causing mechanical efficiency is debated), nacre, gecko toe pads and many others. 
 
 In particular, I, with collaborators, have focused on self-similar designs. Through taking one structural pattern, repeating in on different length scales and optimising the resulting structure, we have found that in many different loading conditions hierarchy leads to high mechanical efficiency. 
 
