@@ -1,6 +1,9 @@
 prl:
     title: Physical Review Letters
     url: http://journals.aps.org/prl/
+APL: 
+    title: Applied Physics Letters
+    url: https://pubs.aip.org/aip/apl
     
 Royal_Soc_A:
     title: Proceedings of Royal Society A
