@@ -15,7 +15,10 @@ Other research projects that I am involved with include using elastic failure to
 
 ## Academic jobs
 
-9.2015 - present
+3.2022 - present
+: [Academic Editor][scielo] Academic editor and scientific consultant with [Scientific Eloquence][scielo]
+
+9.2015 - 9.2018
 : [Academy of Finland][aka] Postdoctoral researcher. Working within the group of [Olli Ikkala][olli] on the project "Hierarchical, bioinspired geometries for efficient, robust materials"
 
 10.2012 - 9.2015 
@@ -29,3 +32,4 @@ Other research projects that I am involved with include using elastic failure to
 [asci]: http://asci.aalto.fi/
 [olli]:http://physics.aalto.fi/groups/molmat/
 [yong]:https://www.nottingham.ac.uk/physics/people/yong.mao
+[scielo]:https://www.scientificeloquence.com/
