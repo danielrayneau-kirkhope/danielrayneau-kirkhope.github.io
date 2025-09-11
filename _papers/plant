@@ -3,15 +3,31 @@
 layout: paper
 type: journal
 doi: https://doi.org/10.1073/pnas.1904984116
-journal: NatureComms
+journal: PNAS
 authors:
+    - Caterina 
+    - Maria
+    - Silvia 
+    - Simone 
+    - Cinzia 
+    - Mario 
+    - Maryam 
+    - Umberto 
+    - Miriam 
+    - Larissa 
+    - Zoe
+    - Mario
     - Daniel
-    - Yong
-    - Rob
-title: Ultralight Fractal Structures from Hollow Tubes
-year: 2012
-volume: 109
-issue: 20
+    - Ermelinda 
+    - Alessandro 
+    - Oleksandr 
+    - Ausonio
+    - Alberto 
+    - Stefano 
+title: Metamaterial architecture from a self-shaping carnivorous plant
+year: 2019
+volume: 38
+issue: 116
 pages: 204301
 extrainfo: 3
 report1name: Ultralight fractal structures could bear heavy loads
