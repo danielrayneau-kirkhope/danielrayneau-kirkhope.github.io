@@ -11,7 +11,7 @@ authors:
     - Bjorn
 title: Effects of design choices on the stiffness of wireframe DNA origami structures
 year: 2018
-volume: Accepted, in press.
+volume: 12
 
 ---
 
