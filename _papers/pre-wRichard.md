@@ -1,7 +1,7 @@
 ---
 layout: paper
 type: journal
-fulltexturl: http://arxiv.org/abs/1703.05150
+fulltexturl: https://doi.org/10.1098/rspa.2017.0753
 journal: Royal_Soc_A
 authors:
     - Daniel
